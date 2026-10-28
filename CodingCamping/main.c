@@ -1,16 +1,3 @@
-/*
- * ============================================================
- *  PROGRAM  : Adventure Camp - Sistem Penyewaan Peralatan
- *  BAHASA   : C
- *  NAMA     : (isi nama lengkap)
- *  NIM      : (isi NIM)
- *
- *  FITUR    : Satu transaksi dapat berisi BANYAK jenis peralatan.
- *             Diskon dihitung dari total seluruh peralatan
- *             berdasarkan lama penyewaan.
- * ============================================================
- */
-
 #include <stdio.h>
 #include <string.h>
 
